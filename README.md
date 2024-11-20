@@ -14,16 +14,16 @@
 
 [logo]: assets/SERAPH_logo_1024_no_bg.png  
 [license-badge]: https://img.shields.io/badge/License-Private-red.svg  
-[license-link]: LICENSE  
+[license-link]: docs/legal/LICENSE  
 [contributors-badge]: https://img.shields.io/badge/Contributors-1-blue.svg  
-[contributors-link]: CONTRIBUTORS.md
+[contributors-link]: .github/CONTRIBUTORS.md
 [contribute-now-badge]: https://img.shields.io/badge/Contribute-Now-green.svg
-[contribute-now-link]: CONTRIBUTING.md
+[contribute-now-link]: .github/CONTRIBUTING.md
 [status-badge]: https://img.shields.io/badge/Status-In%20Progress-blue.svg  
 [roadmap-badge]: https://img.shields.io/badge/Roadmap-View%20Details-blue.svg  
-[roadmap-link]: ROADMAP.md  
+[roadmap-link]: docs/ROADMAP.md  
 [changelog-badge]: https://img.shields.io/badge/CHANGELOG-View%20Details-blue.svg  
-[changelog-link]: CHANGELOG.md  
+[changelog-link]: docs/CHANGELOG.md  
 
 Below is the breakdown of the acronym "SERAPH":
 
@@ -108,7 +108,7 @@ The architecture consists of interconnected modules for communication, task auto
 
 ## Design Ideas
 
-The following sections outline the core features, modules, and potential expansion ideas for SERAPH. These concepts serve as a foundation for development and customization based on user needs. This is a living document that will evolve as the project progresses. Please refer to the [ROADMAP.md](ROADMAP.md) file for detailed development milestones and the [CHANGELOG.md](CHANGELOG.md) file for updates and revisions.
+The following sections outline the core features, modules, and potential expansion ideas for SERAPH. These concepts serve as a foundation for development and customization based on user needs. This is a living document that will evolve as the project progresses. Please refer to the [ROADMAP.md](docs/ROADMAP.md ) file for detailed development milestones and the [CHANGELOG.md](docs/CHANGELOG.md) file for updates and revisions.
 
 ---
 
@@ -231,7 +231,7 @@ The following sections outline the core features, modules, and potential expansi
 
 ### License
 
-This project is licensed under a **Private License**. For details, refer to the [LICENSE](LICENSE) file.
+This project is licensed under a **Private License**. For details, refer to the [LICENSE](docs/legal/LICENSE) file.
 
 ### Contact
 
@@ -239,8 +239,8 @@ For internal communication regarding SERAPH, contact the project owner directly.
 
 - For bug reports, feature requests, or general feedback, please open an issue on the GitHub repository.
 - For security concerns or sensitive matters, contact the project owner via [Email](mailto:ncacord@protonmail.com)
-- For legal inquiries, refer to the [LICENSE](LICENSE) file for details on usage and distribution rights.
-- For additional information, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on contributing to the project.
+- For legal inquiries, refer to the [LICENSE](docs/legal/LICENSE) file for details on usage and distribution rights.
+- For additional information, refer to the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for guidelines on contributing to the project.
 
 ### Acknowledgements
 
@@ -252,12 +252,12 @@ Acknowledgment goes to trusted contributors and open-source libraries leveraged 
 
 ### Roadmap
 
-All development milestones are documented in the [ROADMAP.md](ROADMAP.md) file, accessible to contributors.
+All development milestones are documented in the [ROADMAP.md](docs/ROADMAP.md ) file, accessible to contributors.
 
 ### CHANGELOG
 
-All updates and revisions are detailed in the [CHANGELOG.md](CHANGELOG.md) file for internal tracking.
+All updates and revisions are detailed in the [CHANGELOG.md](docs/CHANGELOG.md) file for internal tracking.
 
 ---
 
-*Contributors may be required to sign a Non-Disclosure Agreement (NDA) and/or a Contributor License Agreement (CLA) prior to contributing to the project. Please refer to [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for guidelines on participation and behavior expectations then, [CONTRIBUTING.md](CONTRIBUTING.md) to get started.*
+*Contributors may be required to sign a Non-Disclosure Agreement (NDA) and/or a Contributor License Agreement (CLA) prior to contributing to the project. Please refer to [CODE_OF_CONDUCT.md](.github/CODE_OF_CONDUCT.md) for guidelines on participation and behavior expectations then, [CONTRIBUTING.md](.github/CONTRIBUTING.md) to get started.*
